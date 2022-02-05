@@ -1,2 +1,3 @@
 # hola-mundo
-Mi primer repositorio
+Mi primer repositorio de prueba 
+Autor: Erik I. Fecha 05/02/2022
